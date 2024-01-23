@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">kotlin second Application</string>
+    <string name="what_would_you_like_to_order">What would you like to order</string>
+    <string name="burger_kind">What kind of burger do you want to order?</string>
+    <string name="beef">Beef</string>
+    <string name="chicken">Chicken</string>
+    <string name="vegan">Vegan</string>
+    <string name="cheese">Cheese</string>
+    <string name="any_toppings">Any toppings ?</string>
+    <string name="jalapeno">Jalapeno</string>
+    <string name="tomatoes">Tomatoes</string>
+    <string name="order">Order</string>
+</resources>
